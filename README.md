@@ -143,4 +143,4 @@ It helps in **cost optimization** by running instances only during required time
 ## 📂 Source Code
 The complete AWS Lambda function code used in this project is available in the repository as:
 
-**`lambda_func_code.py`**
+[`lambda_func_code.py`](./lambda_func_code.py)
