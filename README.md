@@ -140,3 +140,7 @@ It helps in **cost optimization** by running instances only during required time
 - Cron timings must be in **UTC**
 - Permissions are critical for Lambda execution
 
+## 📂 Source Code
+The complete AWS Lambda function code used in this project is available in the repository as:
+
+**`lambda_func_code.py`**
